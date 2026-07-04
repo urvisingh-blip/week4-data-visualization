@@ -1,0 +1,36 @@
+# Sales Analysis Report - Week 4
+
+## Executive Summary
+Complete analysis of 100 sales transactions across 5 products
+and 4 regions using Python and Matplotlib.
+
+## Key Metrics
+- Total Revenue: Rs.12,365,048
+- Average Sale Value: Rs.1,23,650.48
+- Highest Single Sale: Rs.3,73,932
+- Lowest Single Sale: Rs.6,540
+- Total Transactions: 100
+
+## Product Performance
+- Laptop:     Rs.38,89,210 (Best Seller)
+- Tablet:     Rs.28,84,340
+- Phone:      Rs.28,59,394
+- Headphones: Rs.13,84,033
+- Monitor:    Rs.13,48,071
+
+## Regional Performance
+- North: Rs.39,83,635 (Top Region)
+- South: Rs.37,37,852
+- East:  Rs.25,19,639
+- West:  Rs.21,23,922
+
+## Insights
+1. Laptop is the best selling product
+2. North region generates highest revenue
+3. Top 2 products contribute 55% of total revenue
+4. North and South together = 65% of total sales
+
+## Charts Generated
+- chart1_bar.png - Sales by Product
+- chart2_pie.png - Sales by Region
+- chart3_horizontal.png - Quantity Sold
